@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/number-vote/static/css/main.b1145d53.chunk.css",
+    "main.js": "/number-vote/static/js/main.fafb49aa.chunk.js",
+    "main.js.map": "/number-vote/static/js/main.fafb49aa.chunk.js.map",
+    "runtime-main.js": "/number-vote/static/js/runtime-main.f8b70121.js",
+    "runtime-main.js.map": "/number-vote/static/js/runtime-main.f8b70121.js.map",
+    "static/js/2.2b92897d.chunk.js": "/number-vote/static/js/2.2b92897d.chunk.js",
+    "static/js/2.2b92897d.chunk.js.map": "/number-vote/static/js/2.2b92897d.chunk.js.map",
+    "index.html": "/number-vote/index.html",
+    "precache-manifest.0bd47e9dce43e0d196a711b8309da661.js": "/number-vote/precache-manifest.0bd47e9dce43e0d196a711b8309da661.js",
+    "service-worker.js": "/number-vote/service-worker.js",
+    "static/css/main.b1145d53.chunk.css.map": "/number-vote/static/css/main.b1145d53.chunk.css.map",
+    "static/js/2.2b92897d.chunk.js.LICENSE.txt": "/number-vote/static/js/2.2b92897d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8b70121.js",
+    "static/js/2.2b92897d.chunk.js",
+    "static/css/main.b1145d53.chunk.css",
+    "static/js/main.fafb49aa.chunk.js"
+  ]
+}
