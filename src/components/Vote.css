@@ -1,0 +1,15 @@
+.Vote {
+    text-align: center;
+    margin-top: 25%;
+}
+
+#number {
+    padding: 33px;
+    color: white;
+    background-color: teal;
+}
+
+#close {
+    padding: 33px;
+    background-color: tomato;
+}
